@@ -1,0 +1,65 @@
+/** HEADER **/
+#header-nav {
+  background-color: green;
+  border-radius: 0;
+  border: 0;
+  height: 80px;
+}
+.navbar-brand {
+  padding-top: 15px;
+}
+.navbar-brand h1 {
+  font-family: 'Verdana', serif;
+  color: black;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 0 0 0 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  text-align: center;
+  
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a {
+  font-size: 1.8em;
+  color: black;
+  
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+/* END HEADER */
+h2 {
+  font-weight: bold;
+  color: black;
+  font-family: 'Verdana', sans-serif;
+  
+}
+#section-title-1 {
+  background-color: lightgray;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.row {
+   background-color: lightgray;
+   margin-left: auto;
+   margin-right:auto;
+   width: 90%;
+   height: 700px;
+ }
